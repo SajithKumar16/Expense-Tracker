@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker",
+  "description": "A modern and intuitive web application to track, categorize, and visualize your personal expenses. Add or edit transactions easily and gain insights into your spending habits with a dynamic chart.",
+  "requestFramePermissions": []
+}
